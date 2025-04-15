@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [BrowserExtensionStore]
 
-- 🌱 I’m currently learning **DSA with python**
-
 - 📫 How to reach me **yachanamahant@gmail.com**
 
 
